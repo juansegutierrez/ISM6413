@@ -1,4 +1,5 @@
 #8Asg04
+# Juan S. Gutierrez, Mauricio Cervantes, Gabriella E. Battenfield
 
 import json
 
@@ -139,7 +140,7 @@ def print_menu():
 def main():
     contractList = []
 
-    print("Sales and Sales Associate Commission Tracker by Juan S. Gutierrez")
+    print("Sales and Sales Associate Commission Tracker by Group 8")
 
     choice = ""
     while choice != "q" and choice != "Q":
